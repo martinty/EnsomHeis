@@ -1,4 +1,4 @@
 # EnsomHeis
 
-TTK4235 Tilpassede datasystemer
-Heisprosjekt i C
+# TTK4235 Tilpassede datasystemer
+# Heisprosjekt i C
